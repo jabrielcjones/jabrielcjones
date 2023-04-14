@@ -19,7 +19,7 @@ jabriel:
     - Frontend Engineering (eventually)
   goals:
     - Contribute to open source
-    - Curate a portofolio
+    - Curate a portfolio
     - Try competitive programming
     - certs:
         - AWS SA, Professional
