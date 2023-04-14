@@ -10,7 +10,7 @@
 
 ```yaml
 jabriel:
-  pronouns: ["he", "his"]
+  pronouns: ["he", "him"]
   code: ["Python", "Javascript", "SQL", "HTML", "CSS"]
   certs:
     - AWS SA, Associate
