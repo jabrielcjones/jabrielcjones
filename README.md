@@ -1,6 +1,6 @@
 <h2> Jabriel </h2>
 <img align='right' src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" width="230">
-<p><em>Senior Sales Engineer at <a href="https://www.cloudzero.com">CloudZero</a><img src="https://emoji.slack-edge.com/T1714N33Q/cz-party/bfc687f1c7a591c2.gif" width="20" height="20"><br><em>Computer Science graduate from <a href="https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science">Tuskegee University</a><img src="https://media.giphy.com/media/X02wHlZ6beUQ6o83qe/giphy.gif" width="20" height="20">
+<p><em>Senior Sales Engineer at <a href="https://www.cloudzero.com">CloudZero</a><img src="https://emoji.slack-edge.com/T1714N33Q/cz-party/bfc687f1c7a591c2.gif" width="20" height="20"><br><em>Computer Science Alum from <a href="https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science">Tuskegee University</a><img src="https://media.giphy.com/media/4Z5xa7Y9RWlXfaFb5o/giphy.gif" width="40" height="40">
 </em></p>
 
 [![Linkedin: jabrielcjones](https://img.shields.io/badge/-jabrielcjones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jabrielcjones/)](https://www.linkedin.com/in/jabrielcjones/)
