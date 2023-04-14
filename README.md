@@ -6,4 +6,23 @@
 [![Linkedin: jabrielcjones](https://img.shields.io/badge/-jabrielcjones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jabrielcjones/)](https://www.linkedin.com/in/jabrielcjones/)
 [![GitHub jabrielcjones](https://img.shields.io/github/followers/jabrielcjones?label=follow&style=social)](https://github.com/jabrielcjones)
 
-
+```yaml
+jabriel:
+  pronouns: ["he", "his"]
+  code: ["Python", "Javascript", "SQL", "HTML", "CSS"]
+  certs:
+    - AWS SA, Associate
+  career interests:
+    - Backend Engineering
+    - Frontend Engineering (eventually)
+  goals:
+    - Contribute to open source
+    - Curate a portofolio
+    - Try competitive programming
+    - Certs:
+        - AWS SA, Professional
+        - Azure Dev, Associate
+        - GCP Cloud Engineer, Associate
+        - Docker Certified Associate
+        - K8s (CKA)
+```
