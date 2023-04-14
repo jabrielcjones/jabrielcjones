@@ -10,6 +10,7 @@
 
 ```yaml
 jabriel:
+  pronounce: ["juh-breel", "juh-brell"]
   pronouns: ["he", "him"]
   code: ["Python", "Javascript", "SQL", "HTML", "CSS"]
   certs:
