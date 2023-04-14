@@ -1,4 +1,4 @@
-<h2> Hi, I'm Jabriel Jones! </h2>
+<h2> Hi, I'm Jabriel! </h2>
 <img align='right' src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" width="230">
 <p><em>Senior Sales Engineer at <a href="https://www.cloudzero.com">CloudZero</a><img src="https://emoji.slack-edge.com/T1714N33Q/cz-party/bfc687f1c7a591c2.gif" width="20" height="20">
 </em></p>
