@@ -21,7 +21,7 @@ jabriel:
     - Contribute to open source
     - Curate a portofolio
     - Try competitive programming
-    - Certs:
+    - certs:
         - AWS SA, Professional
         - Azure Dev, Associate
         - GCP Cloud Engineer, Associate
