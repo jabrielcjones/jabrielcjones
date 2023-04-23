@@ -24,8 +24,3 @@ jabriel:
     - Try competitive programming
     - certs:
         - AWS SA, Professional
-        - Azure Dev, Associate
-        - GCP Cloud Engineer, Associate
-        - Docker Certified Associate
-        - K8s (CKA)
-```
