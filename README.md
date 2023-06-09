@@ -15,12 +15,3 @@ jabriel:
   code: ["Python", "Javascript", "SQL", "HTML", "CSS"]
   certs:
     - AWS SA, Associate
-  career interests:
-    - Backend Engineering
-    - Frontend Engineering (eventually)
-  goals:
-    - Contribute to open source
-    - Curate a portfolio
-    - Try competitive programming
-    - certs:
-        - AWS SA, Professional
